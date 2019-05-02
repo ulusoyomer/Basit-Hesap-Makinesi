@@ -79,6 +79,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void obuttemiz(View view){
         bar.setText("");
+        sonuc = 0.0;
         gosSayi.clear();
         duzgunList.clear();
 
